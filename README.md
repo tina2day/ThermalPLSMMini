@@ -10,8 +10,7 @@
 
 - `thermal_action_recognition_plsm.ipynb` — основной ноутбук эксперимента;
 - `data/` — папка с датасетом;
-- `checkpoints/` — сохранённые веса модели;
-- `training_plots/` — графики обучения.
+- `checkpoints/` — сохранённые веса модели.
 
 ## Метрики
 
